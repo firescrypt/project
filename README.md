@@ -19,7 +19,7 @@ Welcome to **The Ultimate Book Nook** - your one-stop solution for managing book
 
 **The Ultimate Book Nook** is a cutting-edge Library Management System that simplifies book management, borrowing, and browsing. It's not just a project; it's a doorway to a world of knowledge!
 
-![Search](insert-screenshot-link-here)
+
 
 ## Features
 
@@ -44,17 +44,11 @@ The usage of **The Ultimate Book Nook** is as smooth as flipping through the pag
 
 Connect to our Python server to harness the power of APIs for managing your library:
 
-- `/add_book`: Send a POST request to add a borrowed book to the database.
-- `/list_books`: Send a GET request to retrieve a list of available books from the database.
+- `/api/borrow`: Send a POST request to add a borrowed book to the database.
+- `/api/list`: Send a GET request to retrieve a list of available books from the database.
 
 For detailed API documentation, refer to `server/API_DOC.md`.
 
-## Screenshots
-
-Check out these snapshots of the application in action:
-
-![Screenshot 1](insert-screenshot-link-here)
-![Screenshot 2](insert-screenshot-link-here)
 
 ## Contributing
 
