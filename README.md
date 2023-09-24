@@ -2,7 +2,7 @@
 
 Welcome to **The Ultimate Book Nook** - your one-stop solution for managing books like a pro! 📚
 
-![Book Nook](insert-screenshot-link-here)
+
 
 ### Table of Contents
 
